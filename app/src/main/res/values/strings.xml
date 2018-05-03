@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cha Bubbles</string>
+    <string name="store_name">Cha Bubbles</string>
+    <string name="address">123 Milky Way</string>
+    <string name="city">Boba, CA 90210</string>
+    <string name="phone">555-333-8888</string>
+    <string name="description">Tea Sale!  Boba tea - Buy one get two free! </string>
+    <string name="hours">Open 24/7 - Never be thirsty again!" </string>
+</resources>
